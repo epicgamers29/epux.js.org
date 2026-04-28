@@ -1054,6 +1054,7 @@ var cnames_active = {
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
   "epoxylang": "iamsatyanchal.github.io/epoxylang",
+  "epux": "epicgamers29.github.io/G",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
   "er-api-sdk": "erbots.github.io/Er-Api-Sdk",
